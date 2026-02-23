@@ -73,11 +73,7 @@ Upload the provided `.ino` file to Arduino UNO using Arduino IDE.
 
 Make sure the Servo library is included:
 
-```cpp
-#include <Servo.h>
 
-
----
 
 ## ▶️ How to Run
 
